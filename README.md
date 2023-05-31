@@ -98,24 +98,31 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ## Output:
 
 ### PROFIT PREDICTION: 
-![linear regression using gradient descent](ML-301.png)
+![ML-301](https://github.com/hariprasath5106/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/111515488/2cde1c69-4c5a-4f55-a437-6f3bc558bfd0)
+
 
 ### COST FUNCTION:
-![linear regression using gradient descent](ML-302.png)
+![ML-302](https://github.com/hariprasath5106/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/111515488/7fa78bfc-fbaf-4c9d-9e2e-6e79e535d673)
+
 
 ### GRADIENT DESCENT:
-![linear regression using gradient descent](ML-303.png)
+![ML-303](https://github.com/hariprasath5106/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/111515488/c31d1c5d-9ad3-465e-86af-7daff0dec42c)
+
 ### COST FUNCTION USING GRADIENT DESCENT:
-![linear regression using gradient descent](ML-304.png)
+![ML-304](https://github.com/hariprasath5106/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/111515488/a80194fe-b235-4336-80b6-99b05f18977d)
+
 
 ### GRAPH WITH BEST FIT LINE (PROFIT PREDICTION):
-![linear regression using gradient descent](ML-305.png)
+![ML-305](https://github.com/hariprasath5106/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/111515488/7d20f237-4293-44dd-98a1-ab1daf6baef9)
+
 
 ### PROFIT PREDICTION FOR A POPULATION OF 35,000:
-![linear regression using gradient descent](ML-306.png)
+![ML-306](https://github.com/hariprasath5106/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/111515488/66f88a50-2116-4b74-8503-0d64cc58dac7)
+
 
 ### PROFIT PREDICTION FOR A POPULATION OF 70,000:
-![linear regression using gradient descent](ML-307.png)
+![ML-307](https://github.com/hariprasath5106/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/111515488/499887d5-87cf-4640-8f78-4da05b7cf50a)
+
 
 
 ## Result:
